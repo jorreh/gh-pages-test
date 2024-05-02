@@ -1,5 +1,6 @@
 {
   "name": "gh-pages-test",
+  "homepage": "https://jorreh.github.io/gh-pages-test",
   "private": true,
   "version": "0.0.0",
   "type": "module",

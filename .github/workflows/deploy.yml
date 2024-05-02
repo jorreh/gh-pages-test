@@ -25,7 +25,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://jorreh.github.io/gh-pages-test/
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
